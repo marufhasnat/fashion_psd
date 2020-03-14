@@ -1,0 +1,273 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+
+/*header start*/
+.menu ul li a {
+    padding: 5px 0px !important;
+}
+/*header end*/
+
+
+/*banner start*/
+.banner .banner_content .tagline, .banner02 .banner_content .tagline {
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.banner .banner_content h1, .banner02 .banner_content h1 {
+    font-size: 38px;
+    line-height: 55px;
+}
+.btn_link{
+	margin-bottom: 50px;
+}
+/*banner end*/
+
+
+/*feature start*/
+.title {
+   	letter-spacing: 1px;
+   	word-spacing: 1px;
+}
+.f_title {
+    margin-bottom: 60px;
+}
+.price {
+    margin-bottom: 45px;
+}
+/*feature end*/
+
+/*banner_2 start*/
+.banner_2{
+	margin-top: 20px;
+}
+.banner_2 h1 {
+    margin-top: 50px;
+}
+/*banner_2 end*/
+
+/*service start*/
+.service{
+    margin-bottom: 50px;
+}
+.s_box{
+    margin-bottom: 40px;
+}
+/*service end*/
+
+/*product start*/
+.product{
+    margin-bottom: 20px;
+}
+/*product end*/
+
+/*blog start*/
+.blog{
+    margin-bottom: 40px;
+}
+.meta-tags{
+	margin-bottom: 70px;
+}
+/*blog end*/
+
+
+/*form start*/
+.page-container {
+    margin: -50px auto 0 auto;
+}
+input {
+    width: 220px;
+}
+.butn button {
+    width: 240px;
+}
+/*form end*/
+
+
+/*footer start*/
+.foo-top {
+    padding: 60px 15px;
+}
+.widget-title{
+	margin-top: 20px;
+}
+/*footer end*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+/*header start*/
+.menu ul li a {
+    padding: 6px 0px !important;
+}
+/*header end*/
+
+
+/*banner start*/
+.banner .banner_content .tagline, .banner02 .banner_content .tagline {
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.banner .banner_content h1, .banner02 .banner_content h1 {
+    font-size: 40px;
+    line-height: 55px;
+}
+.btn_link{
+	margin-bottom: 50px;
+}
+/*banner end*/
+
+
+/*feature start*/
+.title {
+    font-size: 33px;
+}
+.f_title {
+    margin-bottom: 60px;
+}
+.price {
+    margin-bottom: 45px;
+}
+/*feature end*/
+
+
+/*banner_2 start*/
+.banner_2{
+	margin-top: 30px;
+}
+.banner_2 h1 {
+    margin-top: 50px;
+}
+/*banner_2 end*/
+
+
+/*service start*/
+.service{
+    margin-bottom: 60px;
+}
+.s_box{
+    margin-bottom: 40px;
+}
+/*service end*/
+
+
+/*product start*/
+.product{
+    margin-bottom: 20px;
+}
+/*product end*/
+
+/*blog start*/
+.blog{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.meta-tags{
+	margin-bottom: 70px;
+}
+/*blog end*/
+
+
+/*form start*/
+.page-container {
+    margin: -35px auto 0 auto;
+}
+/*form end*/
+
+
+/*footer start*/
+.widget-title{
+	margin-top: 20px;
+}
+/*footer end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+/*header start*/
+.menu ul li a {
+    padding: 8px 0px !important;
+}
+/*header end*/
+
+
+/*banner start*/
+.banner .banner_content .tagline, .banner02 .banner_content .tagline {
+    margin-top: 25px;
+}
+.banner .banner_content h1, .banner02 .banner_content h1 {
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 40px;
+    margin-bottom: 30px;
+    color: rgb(0, 0, 0);
+}
+/*banner end*/
+
+/*feature start*/
+.title {
+    font-size: 33px;
+}
+.f_title {
+    margin-bottom: 60px;
+}
+.price {
+    margin-bottom: 60px;
+}
+/*feature end*/
+
+
+/*banner_2 start*/
+.banner_2 h1 {
+    margin-bottom: 15px;
+}
+.banner_2 h4 {
+    margin-bottom: 20px;
+}
+/*banner_2 end*/
+
+
+/*service start*/
+.service{
+    margin-bottom: 70px;
+}
+.s_box h1 {
+    font-size: 15px;
+}
+.s_box p {
+    font-size: 14px;
+}
+/*service end*/
+
+
+/*footer start*/
+
+.app-btn a {
+    margin-bottom: 10px;
+}
+
+.app-btn a p {
+    font-size: 16px;
+}
+/*footer end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*banner start*/
+.banner .banner_content h1, .banner02 .banner_content h1 {
+    font-size: 48px;
+    line-height: 50px;
+}
+/*banner end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
